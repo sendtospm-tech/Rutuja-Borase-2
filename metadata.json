@@ -1,0 +1,7 @@
+{
+  "name": "Copy of DataFide: Smart Image-to-Excel Extractor",
+  "description": "An intelligent application that extracts structured data from images (invoices, forms, receipts) and maps it directly into Excel or CSV documents using Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
